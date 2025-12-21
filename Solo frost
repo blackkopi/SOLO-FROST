@@ -1,3 +1,7 @@
+voteModifiers({Quarantine = true, Committed = true, Glass = true, ExplodingEnemies = true})
+unlockTimeScale()
+cycleTimeScale()
+cycleTimeScale()
 place(8.920, 1.000, 5.531, "Soldier", 500)
 task.wait(1)
 upgrade(8.920, 2.350, 5.531, 250)
