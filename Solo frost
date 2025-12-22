@@ -1,4 +1,4 @@
-voteModifiers({HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Committed = true, Quarantine = true})
+
 unlockTimeScale()
 cycleTimeScale()
 cycleTimeScale()
