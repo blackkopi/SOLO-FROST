@@ -1,7 +1,4 @@
 voteModifiers({HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Committed = true, Quarantine = true})
-unlockTimeScale()
-cycleTimeScale()
-cycleTimeScale()
 place(12.264, 0.973, 24.100, "Soldier", 500)
 task.wait(1)
 upgrade(12.264, 2.323, 24.100, 250)
